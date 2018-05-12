@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/812
     wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40762#Dodo-s-DaughterA-Sequel-to-Dodo
 gutenberg_issued: '2012-09-14'
 gutenberg_type: Text
 identifiers:
